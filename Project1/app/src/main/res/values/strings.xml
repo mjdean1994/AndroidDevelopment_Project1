@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Champlain College Trivia</string>
+    <string name="category_directions">Choose a category...</string>
+    <string name="hint_button_label">Give me a hint!</string>
+</resources>

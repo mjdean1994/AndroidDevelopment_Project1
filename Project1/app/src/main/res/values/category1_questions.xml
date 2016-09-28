@@ -1,0 +1,12 @@
+<resources>
+    <question index="0">
+        <questionText>Which of the following is NOT a housing option for first-year students?</questionText>
+        <answers>
+            <answer index="0">Carriage House</answer>
+            <answer index="1">Whiting Hall</answer>
+            <answer index="2">Spinner Place</answer>
+            <answer index="3">Bankus Hall</answer>
+        </answers>
+        <correctIndex>2</correctIndex>
+    </question>
+</resources>
